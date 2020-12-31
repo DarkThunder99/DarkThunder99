@@ -5,7 +5,8 @@
 ```js
 const Dark Thunder = {
   languages: ["Node.js", "Python", "Transcript"], //And so many
-  favoriteNumber: 9, //I like this number :)```
+  favoriteNumber: 9, //I like this number :)
+  ```
   
 ## Things I use to code
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
