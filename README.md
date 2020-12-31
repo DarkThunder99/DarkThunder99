@@ -1,11 +1,12 @@
 <div align="center"><img src="https://cdn.discordapp.com/attachments/793805187353542667/794143721888940052/standard_12.gif"></div>
 
-## Hello, Im Sudhan <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
+## Hello, Im DarkThunder <img src="https://raw.githubusercontent.com/SudhanPlayz/SudhanPlayz/master/images/WaveIcon.gif" width="30px">
 
 ```js
 const Dark Thunder = {
   languages: ["Node.js", "Python", "Transcript"], //And so many
-  favoriteNumber: 9, //I like this number :)
+  favoriteNumber: 9, //I like this number :)```
+  
 ## Things I use to code
 <img src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img
 src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-plain.svg" width="40px">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img 
