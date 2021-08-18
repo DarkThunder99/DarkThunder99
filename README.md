@@ -5,7 +5,6 @@
       <td>
          <p align="center">    
          <img align="center" src="https://i.imgur.com/E029hYg.png" width="50%"/></a><br/>
-         <a href="https://ko-fi.com/mashwishi"> <img align="center" src="https://ko-fi.com/img/githubbutton_sm.svg" /></a>
          <br/><br/>
             <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
