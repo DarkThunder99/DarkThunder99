@@ -4,7 +4,7 @@
    <tr>
       <td>
          <p align="center">    
-         <img align="center" src="https://imgur.com/eg6a0HW" width="50%"/></a><br/>
+         <img align="center" src="https://imgur.com/eg6a0HW.png" width="50%"/></a><br/>
          <br/><br/>
             <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
          <br/><br/>
