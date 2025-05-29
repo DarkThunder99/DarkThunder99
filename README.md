@@ -1,4 +1,4 @@
-<h2 align="center">👋 Hello! Welcome to my Github, I'm DarkThunder!</h2>
+<h2 align="center">👋 Hello! Welcome to my Github, I'm Srikanth!</h2>
 <p align="center">
 <table align="center">
    <tr>
@@ -22,7 +22,7 @@
       </td>
       <td>
       <br/><br/>
-      <h2 align="center">📊 DarkThunder's Github Statistics 📊 </h2>   
+      <h2 align="center">📊 Srikanth's Github Statistics 📊 </h2>   
          <br/><br/><br/>
          <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=DarkThunder99&theme=radical&hide_border=true" />   
          <br/><br/><br/>
