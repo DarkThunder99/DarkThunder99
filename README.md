@@ -3,11 +3,7 @@
 <table align="center">
    <tr>
       <td>
-         <p align="center">    
-         <img align="center" src="https://imgur.com/X9Go5LW.png" width="50%"/></a><br/>
-         <br/><br/>
-            <a href="https://discord.gg/gcafe"><img align="center" src="https://discordapp.com/api/guilds/770993454703575060/widget.png?style=banner2" alt="Discord Banner2"/></a>
-         <br/><br/>
+ <br/><br/>
          - 🔭 I’m currently working on <strong><a href="https://hydrabot.fun">Hydra Bot - Discord Bot</a></strong> -
          <br/>
          - 🌱 I’m currently learning <strong>Javascript</strong> -
